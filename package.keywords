@@ -1,0 +1,17 @@
+## old keywords -- 2012-06-02
+#app-emulation/xen	~x86
+#app-emulation/xen-tools	~x86
+#
+#=net-misc/curl-7.15.5*	~x86
+##net-misc/dhcpv6	~x86
+#net-misc/gateway6	~x86
+#net-misc/linux-igd	~x86
+#
+#sci-misc/boinc		~x86
+#
+#sys-kernel/xen-sources	~x86
+#############################################
+
+=sys-power/cpufreqd-2.4.2-r1	~amd64
+sys-boot/grub:2			~amd64
+sys-apps/superiotool		~amd64

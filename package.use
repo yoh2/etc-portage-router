@@ -1,0 +1,24 @@
+app-editors/vim		gpm
+app-emulation/xen-tools	screen
+
+mail-mta/ssmtp		mailwrapper
+media-gfx/splashutils	truetype mng png -hardened fbcondecor
+media-libs/jpeg		static-libs
+media-libs/lcms		static-libs
+media-libs/libpng	static-libs
+
+net-analyzer/wireshark	adns ares gcrypt geoip kerberos smi
+net-dns/avahi	-python
+net-libs/libpcap	bluetooth canusb netlink
+net-misc/upnp	-doc
+net-misc/gateway6	radvd
+
+sys-apps/lm_sensors	sensord
+sys-apps/memtest86	serial
+sys-apps/memtest86+	serial
+sys-apps/superiotool	pci
+sys-boot/grub:2		efiemu mount
+
+sys-devel/gcc	mudflap
+
+sys-fs/udev		devfs-compat extras
