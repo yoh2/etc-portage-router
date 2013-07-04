@@ -10,6 +10,7 @@ media-libs/libpng	static-libs
 net-analyzer/wireshark	adns ares gcrypt geoip kerberos smi
 net-dns/avahi	-python
 net-libs/libpcap	bluetooth canusb netlink
+net-misc/iperf		threads
 net-misc/upnp	-doc
 net-misc/gateway6	radvd
 
