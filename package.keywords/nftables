@@ -1,0 +1,2 @@
+net-firewall/nftables	~amd64
+net-libs/libnftnl	~amd64
